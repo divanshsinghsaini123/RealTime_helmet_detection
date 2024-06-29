@@ -1,0 +1,6 @@
+train: C:/Users/divan/Downloads/bike helmet detection/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates/train/images
+val: C:/Users/divan/Downloads/bike helmet detection/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates/val/images
+
+nc: 4
+
+names: ["with helmet", "without helemet", "rider", "number plate"]
